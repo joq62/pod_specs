@@ -2,7 +2,7 @@
 {pod_vsn,"1.0.0"}.
 {application,{"balcony","1.0.0","https://github.com/joq62/balcony.git"}}.
 {app_env,""}.
-{app_hosts,["c1"]}.
+{app_hosts,["c1_varmdo"]}.
 
 
 
