@@ -2,7 +2,7 @@
 {pod_vsn,"1.0.0"}.
 {application,{"mymath","1.0.0","https://github.com/joq62/mymath.git"}}.
 {app_env,""}.
-{app_hosts,[{"c1_varmdo",c1}]}.
+{app_hosts,[{"asus_varmdo","joq62-X550CA"}]}.
 
 
 
