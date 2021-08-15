@@ -1,8 +1,8 @@
-{pod_id,"mymath"}.
+{pod_id,"mymath_lgh"}.
 {pod_vsn,"1.0.0"}.
 {application,{"mymath","1.0.0","https://github.com/joq62/mymath.git"}}.
 {app_env,""}.
-{app_hosts,[]}.
+{app_hosts,[{"c2_lgh","c2"}]}.
 
 
 
