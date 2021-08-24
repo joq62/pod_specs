@@ -1,8 +1,0 @@
-{pod_id,"balcony_lgh"}.
-{pod_vsn,"1.0.0"}.
-{application,{"balcony","1.0.0","https://github.com/joq62/balcony.git"}}.
-{app_env,"port 8080"}.
-{app_hosts,[{"c0_lgh","c0"}]}.
-
-
-
