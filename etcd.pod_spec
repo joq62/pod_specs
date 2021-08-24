@@ -1,6 +1,6 @@
 {name,"etcd"}.
 {vsn,"1.0.0"}.
-{containers,{"etcd","1.0.0","https://github.com/joq62/etcd.git",[]}}.
+{containers,[{"etcd","1.0.0","https://github.com/joq62/etcd.git",[]}]}.
 {wanted_hosts,[]}.
 
 
