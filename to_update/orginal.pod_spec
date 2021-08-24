@@ -1,0 +1,8 @@
+{pod_id,"orginal"}.
+{pod_vsn,"1.0.0"}.
+{application,{"orginal","1.0.0","https://github.com/joq62/orginal.git"}}.
+{app_env,""}.
+{app_hosts,[]}.
+
+
+
