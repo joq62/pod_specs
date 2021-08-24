@@ -1,0 +1,7 @@
+{name,"balcony_lgh"}.
+{vsn,"1.0.0"}.
+{containers,{"balcony","1.0.0","https://github.com/joq62/balcony.git",[]}}.
+{wanted_hosts,[{"c0_lgh","c1"}]}.
+
+
+

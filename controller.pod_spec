@@ -1,0 +1,6 @@
+{name,"controller"}.
+{vsn,"1.0.0"}.
+{containers,{"controller","1.0.0","https://github.com/joq62/controller.git",[]}}.
+{wanted_hosts,[]}.
+
+

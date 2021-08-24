@@ -1,0 +1,7 @@
+{name,"kubelet"}.
+{vsn,"1.0.0"}.
+{containers,{"kubelet","1.0.0","https://github.com/joq62/kubelet.git",[]}}.
+{wanted_hosts,[]}.
+
+
+
