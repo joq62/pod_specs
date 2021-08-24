@@ -1,8 +1,0 @@
-{pod_id,"controller"}.
-{pod_vsn,"1.0.0"}.
-{application,{"controller","1.0.0","https://github.com/joq62/controller.git"}}.
-{app_env,""}.
-{app_hosts,[]}.
-
-
-

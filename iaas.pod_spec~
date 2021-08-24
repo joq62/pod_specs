@@ -1,8 +1,0 @@
-{pod_id,"iaas"}.
-{pod_vsn,"1.0.0"}.
-{application,{"iaas","1.0.0","https://github.com/joq62/iaas.git"}}.
-{app_env,""}.
-{app_hosts,[]}.
-
-
-

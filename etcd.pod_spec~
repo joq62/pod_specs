@@ -1,8 +1,0 @@
-{pod_id,"etcd"}.
-{pod_vsn,"1.0.0"}.
-{application,{"etcd","1.0.0","https://github.com/joq62/etcd.git"}}.
-{app_env,""}.
-{app_hosts,[]}.
-
-
-

@@ -1,8 +1,0 @@
-{pod_id,"kubelet"}.
-{pod_vsn,"1.0.0"}.
-{application,{"kubelet","1.0.0","https://github.com/joq62/kubelet.git"}}.
-{app_env,""}.
-{app_hosts,[]}.
-
-
-
