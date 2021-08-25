@@ -1,0 +1,6 @@
+{name,"support_c0_lgh"}.
+{vsn,"1.0.0"}.
+{containers,[{"support","1.0.0","https://github.com/joq62/support.git",[]}]}.
+{wanted_hosts,[{"c0_lgh","c0"}]}.
+
+
