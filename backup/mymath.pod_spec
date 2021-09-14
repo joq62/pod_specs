@@ -1,0 +1,6 @@
+{name,"mymath"}.
+{vsn,"1.0.0"}.
+{containers,[{"mymath","1.0.0","https://github.com/joq62/mymath.git",[]}]}.
+{wanted_hosts,[]}.
+
+
