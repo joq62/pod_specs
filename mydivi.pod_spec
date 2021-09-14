@@ -1,0 +1,7 @@
+{pod_id,"mydivi"}.
+{pod_vsn,"1.0.0"}.
+{application_list,[{mydivi,"1.0.0","https://github.com/joq62/mydivi.git",[]}]}.
+{replicas,2}.
+{host_list,["c0","c2"]}.
+
+
